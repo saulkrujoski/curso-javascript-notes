@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 1</title>
+</head>
+
+<body>
+    <h1>Bienvenidos a la clase 1</h1>
+    <p>Veremos las formas de insertar JavaScript a nuestro proyecto</p>
+    <p>Recuerda que aquí te mostramos diferentes formas, algunas las usaremos más, otras no tanto. Pero hay otras que
+        recomendamos NO USAR en absoluto.</p>
+    <!-- Forma 1: Etiquetas script -->
+    <!-- <script>
+        // Las etiquetas scripts las podemos usar en cualquier parte, pero siempre siempre siempre los pondremos al final del body antes de cerrarlo </body>
+        // Solo en casos muy particulares y de necesidad específica irán en otro lugar, por ejemplo en medio del HTML
+        alert("Esto es un mensaje que se verá al abrir la página...")
+    </script> -->
+
+
+    <!-- Forma 2: En línea (LA FORMA MENOS RECOMENDADA) -->
+    <!-- Este formato es el menos indicado ya que es el más dificil de mantener, más aún cuando trabajamos en proyectos grandes -->
+    <!-- <button type="button" onclick="alert('Hola humano :/')"></button> -->
+
+
+    <!-- Forma 3: Enlazando archivos mediante etiquetas scripts (LA FORMA MÁS HABITUAL) -->
+    <!-- Aquí debemos tener definido un archivo con un nombre adecuado y la extensión .js y este es el que alimentará la propiedad src (source) de la etiqueta <script/> -->
+    <!-- <script src="./scripts/main.js"></script> -->
+
+
+    <!-- Forma 4: Mediante módulos (lo más similar a como lo harías en React, Vue.js o Angular) -->
+    <!-- Debes definir un archivo al igual que en la forma 3, pero dentro de este debemos usar la palabra "export" para cada elemento o funcionalidad que queremos usar -->
+    <!-- Se debe definir la etiqueta script con el atributo type con el valor "module" -->
+    <!-- Luego, dentro de la apertura y el cierre <script type="module"> AQUÍ </script> debes usar import { recurso } from "ruta-del-archivo-con-los-módulos.js" -->
+    <!-- Ahora puedes usar cada uno de estos "recursos" dentro del código -->
+    <!-- <script type="module">
+        import { saludar } from "./scripts/myModule.js";
+        saludar();
+    </script> -->
+</body>
+</html>
