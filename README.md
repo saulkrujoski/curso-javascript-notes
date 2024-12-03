@@ -12,6 +12,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 4: funciones, definición, uso, parámetros, ámbito de variables, funciones anónimas y flecha.
 
+    - Clase 5: objetos, propiedades, definición, constructores, métodos.
+
 - Demos: dentro de esta carpeta tendrás acceso a todo tipo de ejemplos que podremos abordar a lo largo del curso o puedes usarlo como recurso didáctico para explorar opciones y alternativas.
 
 - Examples: dentro de esta carpeta tendrás acceso a ejemplos que acompañaran a los conceptos teóricos provistos por el programa de estudios.
