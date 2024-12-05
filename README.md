@@ -14,6 +14,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 5: objetos, propiedades, definición, constructores, métodos.
 
+    - Clase 6: arrays, métodos para manipular sus elementos, formas de acceder a estos y de recorrerlo. Vimos dos ejemplos prácticos de cómo trabajar dinámicamente para cargar elementos a través de interacción con el usuario.
+
 - Demos: dentro de esta carpeta tendrás acceso a todo tipo de ejemplos que podremos abordar a lo largo del curso o puedes usarlo como recurso didáctico para explorar opciones y alternativas.
 
 - Examples: dentro de esta carpeta tendrás acceso a ejemplos que acompañaran a los conceptos teóricos provistos por el programa de estudios.
