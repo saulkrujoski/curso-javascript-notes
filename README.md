@@ -16,6 +16,9 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 6: arrays, métodos para manipular sus elementos, formas de acceder a estos y de recorrerlo. Vimos dos ejemplos prácticos de cómo trabajar dinámicamente para cargar elementos a través de interacción con el usuario.
 
+- After Clases:
+    - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
+
 - Demos: dentro de esta carpeta tendrás acceso a todo tipo de ejemplos que podremos abordar a lo largo del curso o puedes usarlo como recurso didáctico para explorar opciones y alternativas.
 
 - Examples: dentro de esta carpeta tendrás acceso a ejemplos que acompañaran a los conceptos teóricos provistos por el programa de estudios.
