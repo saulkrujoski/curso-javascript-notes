@@ -16,6 +16,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 6: arrays, métodos para manipular sus elementos, formas de acceder a estos y de recorrerlo. Vimos dos ejemplos prácticos de cómo trabajar dinámicamente para cargar elementos a través de interacción con el usuario.
 
+    - Clase 7: abstracción, funciones de orden superior: buscar, filtrar, modificar, entre otras funciones.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
