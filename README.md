@@ -18,6 +18,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 7: abstracción, funciones de orden superior: buscar, filtrar, modificar, entre otras funciones.
 
+    - Clase 8: Objeto Math y Clase Date. Abarcamos un ejercicio interesante en el que construimos un array de objetos qye representan ventas y sus detalles y lo mapeamos conc lases para poder usar sus métodos.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
