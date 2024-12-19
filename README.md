@@ -20,6 +20,10 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 8: Objeto Math y Clase Date. Abarcamos un ejercicio interesante en el que construimos un array de objetos qye representan ventas y sus detalles y lo mapeamos conc lases para poder usar sus métodos.
 
+    - Clase 9: Pendiente de subir
+
+    - Clase 10: Manejo de eventos. Para entenderlo creamos un ejemplo simple con una "to do list" y creamos una tarea, validamos sus caracteristicas y la añadimos a un array.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
