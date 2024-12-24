@@ -24,6 +24,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 10: Manejo de eventos. Para entenderlo creamos un ejemplo simple con una "to do list" y creamos una tarea, validamos sus caracteristicas y la añadimos a un array.
 
+    - Clase 11: Incorporación de almacenamiento de información en local y sesion storage, conocemos sobre JSON y aprendemos a usar sus métodos para guardar información compleja y recuperarla. Aplicamos diferentes métodos de recuperación y de mapeo para ver la diferencia del formato en cada uno de los casos. ¡Felices fiestas! Nos veremos el 06/01.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
