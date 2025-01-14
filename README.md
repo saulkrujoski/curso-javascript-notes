@@ -28,6 +28,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 12: Conocemos el uso de sugar syntax y operadores para reducir código, como lo son operador or, and ternatio, entre otros. Aprendimos sobre desestructuración objetos y de arrays y los aplicamos con el ejemplo de la propuesta en demos --> todo list.
 
+    - Clase 13: Aprendemos sobre spread, template literal y lo aplicamos al proyecto propuesto.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
