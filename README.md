@@ -30,6 +30,8 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 13: Aprendemos sobre spread, template literal y lo aplicamos al proyecto propuesto.
 
+    - Clase 14: Incorporación de librerías vicuales para el manejo de UI mejorando la interacción con el usuario y el feedback, además añadimos la librería de luxon para el manejo de fechas, super útil.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
