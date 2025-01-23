@@ -32,6 +32,10 @@ El presente proyecto contiene el conjunto de clases que veremos a lo largo de la
 
     - Clase 14: Incorporación de librerías vicuales para el manejo de UI mejorando la interacción con el usuario y el feedback, además añadimos la librería de luxon para el manejo de fechas, super útil.
 
+    - Clase 15: En su lugar se subió la demo "asynchrony-and-promises".
+
+    - Clase 16: Se añade el uso de fetch para consumir recursos externos con dirección web y protocolo HTTP e internos con rutas relativas.
+
 - After Clases:
     - After Clase 2: encaramos un ejercicio que simula a las cuentas de un banco y sus movimiento, abordamos la definición de las clases necesarias, instanciamos objetos y manipulamos sus datos internos (movimientos). Utilizamos estructuras básica y operaciones matemáticas para inluir validaciones.
 
